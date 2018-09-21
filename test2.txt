@@ -1,4 +1,0 @@
-password
-penguin
-123
-!@#
